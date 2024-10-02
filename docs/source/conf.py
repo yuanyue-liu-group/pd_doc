@@ -3,8 +3,8 @@
 # -- Project information
 
 project = 'EDI'
-copyright = '2023, Zhongcan Xiao'
-author = 'Zhongcan Xiao'
+copyright = '2024, Yuanyue Liu Group'
+author = 'Yuanyue Liu Group'
 
 release = '1.0'
 version = '1.0'
