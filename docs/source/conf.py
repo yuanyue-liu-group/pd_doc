@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'EDI'
+project = 'EDI-point-defect'
 copyright = '2024, Yuanyue Liu Group'
 author = 'Yuanyue Liu Group'
 
