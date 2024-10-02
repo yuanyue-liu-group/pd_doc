@@ -1,2 +1,1 @@
-Documentation website: https://edi-doc.readthedocs.io
-
+Documentation website: https://point-defect.readthedocs.io
